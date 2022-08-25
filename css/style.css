@@ -16,7 +16,7 @@ body{
     text-align: center;
     flex-direction: column;
 }
-.contenedor{
+.main{
     width: 20rem; 
     background: hsl(0, 0%, 100%);
     display: flex;
@@ -27,7 +27,7 @@ body{
     box-shadow: 0 1.5rem 1rem 0 rgba(0,0,0,0.05);
     padding: 1rem;
 }
-.contenedor img{
+.main img{
     width: 18rem;
     height: auto;
     border-radius: 0.5rem;
